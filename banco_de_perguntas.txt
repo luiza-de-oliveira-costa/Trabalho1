@@ -1,0 +1,60 @@
+Simplique: 0,2/0,5
+(a) 0,04
+(b) 20/5
+(c) 2/5
+(d) Nenhuma das alternativas acima
+c
+Resolva: -3⁴
+(a) 81
+(b) -243/3
+(c) -12
+(d) Nenhuma das alternativas acima
+b
+Solucione: 16⁻³'⁴
+(a) (-16³)/4
+(b) 1/(⁴√4096)
+(c) 3/(⁴√16)
+(d) Nenhuma das alternativas anteriores
+b
+Simplifique: (x²+3x+2)/(x²-x-2)
+(a) (x+2)*(x-2)⁻¹
+(b) x-3
+(c) (x+2)/(x-1)
+(d) x²-3x
+a
+Resolva: (2√5)/(4√19)
+(a) 95√2
+(b) 2√45
+(c) 3*7⁻³'⁴
+(d) (√95)/38
+d
+Encontre a equação da reta que passe pelo ponto (2,-5) e que: I- Tem a inclinação m = -3, II- Seja paralela a x, III- Seja paralela a y, IV- Seja paralela a reta 2x - 4y = 3
+(a) I: 3x+1; II: y = -5; III: x = 3; IV: 2x-5
+(b) Nenhuma das alternativas
+(c) I: y = -3x-1; II: y = -6; III: x = 2; IV: (x/2) + (3/4)
+(d) I: y = -3x+1; II: y = -5; III: x = 2; IV: (x/2) - 6
+d
+Seja f a função definida por f(x) = sen(x) + cos(x) e g a função definida por g(u) = sen(u) + cos(u), para todos os números reais x e u. Então, I- f e g são exatamente as mesmas funções , II- Se x e u são números diferentes, f e g são funções diferentes , III- Não há informação suficiente para determinar se f e g são a mesma função.
+(a) Todas as alternativas são verdadeiras
+(b) I-F, II-V, III-V
+(c) I-V, II-F, III-F
+(d) I-F, II-F, III-V
+c
+Se f(x) = (x²-4)/(x-2) e g(x) = x + 2, então podemos dizer que f e g são iguais.Essa sentença é:
+(a) Verdadeira, pois ao simplificar f(x) você chega a g(x)
+(b) Verdadeira, pois terão o mesmo resultado
+(c) Falsa, pois elas têm domínios diferentes
+(d) Falsa, pois f(x) é uma função racional e g(x) é polinomial
+c
+Dado dois decimais infinitos a = .3939393939... e b = .67766777666... , a soma a + b:
+(a) Não é definida, pois a soma de um número racional e um irracional não é definida
+(b) Não é um número, pois não são todos os decimais infinitos que são números reais
+(c) Pode ser definida precisamente usando sucessivas aproximações
+(d) Não é um número real porque o padrão pode não ser previsível indefinidamente
+c
+Resolva: |x-4| < 3 
+(a) x < 6
+(b) 1 < x < 7
+(c) x <= 7
+(d) Nenhuma das alternativas acima
+b
